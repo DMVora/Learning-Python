@@ -1,5 +1,5 @@
 
-# Check whether x is even or odd 
+# A function to check whether x is even or odd 
 def OddEven( x ): 
     if (x % 2 == 0): 
         print "even"
