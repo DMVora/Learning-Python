@@ -1,3 +1,4 @@
+# Generator Function
 def Fun(): 
     yield 1            
     yield 2            
